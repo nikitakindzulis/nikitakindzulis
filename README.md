@@ -1,8 +1,6 @@
 # Hi, I'm Nikita 👋
 
-I am an Information Technologies student at Riga Technical University and an aspiring Junior Backend Developer.
-
-I am focused on Python, Java, Spring Boot, REST APIs, web scraping, automation, and backend development.
+I am an Information Technologies student at Riga Technical University, focused on backend development with Python and Java.
 
 ## Skills
 
@@ -13,19 +11,18 @@ I am focused on Python, Java, Spring Boot, REST APIs, web scraping, automation, 
 - SQL
 - Git and GitHub
 - Web scraping
-- Basic testing with JUnit, Mockito and pytest
+- Testing: JUnit, Mockito, pytest
 
-## Projects
+### [Website Analyzer](https://github.com/nikitakindzulis/website-analyzer)
 
-### Website Analyzer
-Python tool that analyzes web pages, extracts basic page information, contacts, links, images, and keyword-related sentences. Results are saved as CSV and JSON reports.
+Python tool that analyzes web pages, extracts page information, contacts, links, images, and keyword-related sentences. Results are saved as CSV and JSON reports.
 
-### ClickUp Webhook Automation
+### [ClickUp Webhook Automation](https://github.com/nikitakindzulis/clickup-webhook-automation)
+
 Java Spring Boot application that receives ClickUp webhook events and automatically updates tasks based on custom business rules.
 
 ## Currently Learning
 
-- FastAPI
 - PostgreSQL
 - Docker
 - Backend architecture
