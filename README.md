@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Nikita 👋
 
-<!--
-**nikitakindzulis/nikitakindzulis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an Information Technologies student at Riga Technical University and an aspiring Junior Backend Developer.
 
-Here are some ideas to get you started:
+I am focused on Python, Java, Spring Boot, REST APIs, web scraping, automation, and backend development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Python
+- Java
+- Spring Boot
+- REST APIs
+- SQL
+- Git and GitHub
+- Web scraping
+- Basic testing with JUnit, Mockito and pytest
+
+## Projects
+
+### Website Analyzer
+Python tool that analyzes web pages, extracts basic page information, contacts, links, images, and keyword-related sentences. Results are saved as CSV and JSON reports.
+
+### ClickUp Webhook Automation
+Java Spring Boot application that receives ClickUp webhook events and automatically updates tasks based on custom business rules.
+
+## Currently Learning
+
+- FastAPI
+- PostgreSQL
+- Docker
+- Backend architecture
+- Automated testing
