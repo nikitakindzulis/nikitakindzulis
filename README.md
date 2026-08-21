@@ -45,6 +45,8 @@ Backend service built with **Java and Spring Boot** that receives ClickUp webhoo
 
 The project includes webhook processing, REST API communication and task status automation.
 
+[View ClickUp Webhook Automation](https://github.com/nikitakindzulis/clickup-webhook-automation)
+
 ### Website Analyzer
 
 Python tool that analyzes web pages and extracts useful information such as:
@@ -56,6 +58,8 @@ Python tool that analyzes web pages and extracts useful information such as:
 * keyword-related sentences
 
 Results can be exported as **CSV** and **JSON** reports.
+
+[View Website Analyzer](https://github.com/nikitakindzulis/website-analyzer)
 
 ## Currently Learning
 
