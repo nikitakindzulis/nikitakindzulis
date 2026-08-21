@@ -23,22 +23,15 @@ I enjoy building practical backend projects with Python and Java, working with e
 
 Sports broadcast planning platform built with **FastAPI** and **SQLite**.
 
-Main features include:
-
-* automatic sports event synchronization from ESPN
-* admin authentication
-* manual event management
-* crew and equipment management
-* resource conflict detection
-* production readiness checks
-* audit logging
-* CSV and ICS exports
-* webhook notifications
-* automated tests
-* Docker support
+Features include:
+- ESPN sports event synchronization
+- Admin authentication and event management
+- Crew and equipment assignment
+- Resource conflict detection
+- Production readiness checks
+- CSV / ICS exports, testing and Docker support
 
 [View SportBoom](https://github.com/nikitakindzulis/sportboom)
-
 ### ClickUp Webhook Automation
 
 Backend service built with **Java and Spring Boot** that receives ClickUp webhook events and automatically updates tasks based on custom business rules.
