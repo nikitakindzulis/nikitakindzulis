@@ -17,7 +17,7 @@ I enjoy building practical backend projects with Python, Java and JavaScript, wo
 * **Git & GitHub**
 * **Docker**
 * **pytest / JUnit**
-* **HTML / CSS **
+* HTML / CSS
 
 ## Projects
 
