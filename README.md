@@ -1,8 +1,8 @@
 # Hi, I'm Nikita 👋
 
-Information Technologies student at **Riga Technical University** focused on **backend development, REST APIs, databases and automation**.
+Information Technologies student at Riga Technical University focused on backend development, REST APIs, databases and automation.
 
-I enjoy building practical backend projects with Python and Java, working with external APIs, databases, webhooks and application logic.
+I enjoy building practical backend projects with Python, Java and JavaScript, working with APIs, databases, webhooks and application logic.
 
 ## Tech Stack
 
@@ -11,11 +11,13 @@ I enjoy building practical backend projects with Python and Java, working with e
 * **Java**
 * **Spring Boot**
 * **SQL**
+* **JavaScript**
+* **Node.js**
 * **REST APIs**
 * **Git & GitHub**
 * **Docker**
 * **pytest / JUnit**
-* **HTML / CSS / JavaScript**
+* **HTML / CSS **
 
 ## Projects
 
@@ -53,13 +55,6 @@ Python tool that analyzes web pages and extracts useful information such as:
 Results can be exported as **CSV** and **JSON** reports.
 
 [View Website Analyzer](https://github.com/nikitakindzulis/website-analyzer)
-
-## Currently Learning
-
-* PostgreSQL
-* Docker
-* API design
-* Automated testing
 
 ## What I'm Interested In
 
